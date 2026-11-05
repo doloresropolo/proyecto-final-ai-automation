@@ -131,8 +131,8 @@ Estas verificaciones son **pruebas manuales del prototipo**. No equivalen a una 
 
 ### Evidencias
 
-- [Canvas del workflow completo](capturas/workflow-completo.png)
-- [Logs de recuperación RAG](capturas/prueba-rag.png)
+- [Canvas del workflow completo](workflow-completo.png)
+- [Logs de recuperación RAG](prueba-rag.png)
 
 ## 8. Cómo reproducir el prototipo
 
